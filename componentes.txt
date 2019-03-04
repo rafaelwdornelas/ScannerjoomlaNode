@@ -1,0 +1,216 @@
+com_abook|3.1.4 - 2.0.4 and 1.1.2|151618/146549
+com_abstract|2.1|141431
+com_acajoom|<=5.1.5|151507
+com_acepolls|3.x and other versions|151593
+com_activitymanager|5.3|151497
+com_adagency|7.1|145691
+com_adsmanager|1.0 ~ 2.5 ~ 2.6 ~ 2.9.13 ~ 3.1.0 - 3.2.0 and all previous versions may vulnerable|151787
+com_advertisementboard|3.1.0/3.2.0/3.0.4|146432/145626/141616
+com_agora|3.0 and 4.10 - other previous versions|151619
+com_aindexdictionaries|1.0|149532
+com_aist|<= 2.0|146433
+com_ajaxquiz|1.8|143856
+com_ajax|1.4|145580
+com_alberghi|2.1.1 a 2.1.3|151882
+com_alfcontact|3.2.3|141605
+com_articleman|4.3.9|149533
+com_atomicongallery|1.5.x|151458
+com_attachments| 2.2.2 and 3.2.6 / All previous versions|151747
+com_auctionfactory|4.5.5|149488
+com_avreloaded|1.2.x|146434
+com_bfsurvey_pro|2.13.1|151498
+com_biblestudy|9.1.1|146551
+com_bookingcalendarforjoomla|3.4.0 and previous versions may vulnerable|151833
+com_booklibrary|3.0 and 4.0.31 and other previous versions./3.5/3.6.1|151620/141236/141237
+com_bookpro|2.3/2.2.2/2.3.0/1.0|146445/145523/145522/145476
+com_breezingforms|Joomla!(r) 3.x or 2.5. -- Version: 1.9.0|151594
+com_calendarplanner|1.0.1|143835
+com_caragent|<=1.3.2 To 3.8.12|151838
+com_ccnewsletter|2.x Stable/2.1.9|146462/143526
+com_checklist|1.1.1|146550
+com_chronoconnectivity|V5.0.6_Component - V5.0_Plugin_RC1 - V4_RC3.2_J1.6|151459
+com_chronoforms|<=6.0.17|151845
+com_civicrm|1.6|141315
+com_collectionfactory|2.2.1/4.1.9|149530/149529
+com_communitypolls|4.5.0|141316
+com_communityquiz|4.3.5|141312
+com_communitysurveys|4.3|141319
+com_comprofiler|2.4.0/1.4|151494/141314
+com_contact_enhanced|2.5.14 ~ 2.5.16 ~ 2.5.29 ~ 3.9.2 and previous versions|151834
+com_content|1.x and 3.x - 3.7.4 - 3.8.3 - 3.8.4 - 3.8.10|151895
+com_cpeventcalendar|3.0.1|146151
+com_cwtags|2.0.6|146545
+com_datsogallery|3.4.4 and previous versions|151665
+com_digistore|1.5 and 1.6|141306
+com_docman|3.3.4 and previous versions|151499/146209
+com_dtracker|3.0|146440
+com_dtregister|4.0.3 and previous versions|151666/146438
+com_dutchfactory|2.0.2|149526
+com_easybookreloaded|2.5 and 3.3.2 compatible with Joomla 3.x|151667
+com_easyshop|1.2.3|151302
+com_ekrishta|2.10/2.9|148141/148104/146548
+com_expautospro|4.2.3|145629
+com_extcalendar|2.0|151621
+com_extrasearch|2.2.8|141763
+com_extroform|2.1.5|149528
+com_fabrik|All Current Versions and 3.9|150512
+com_facileforms|1.2 to 1.4.7|151508
+com_fastball|2.5|146439
+com_fields|Joomla in version 3.7.0|146946/142601
+com_flexicontent|1.5 and v3.2.1.15 and other previous versions|151835
+com_focalpoint|1.2.3|141793
+com_formmaker|3.6.12|146441
+com_formularz|1.0.2|151424
+com_fsf|1.11.18 and previous versions|151495
+com_furniture|Joomla 1.5 ~ 2.5.x  - 3.x - 3.6.x and all previous versions|151836
+com_gallery_wd|1.3.6|146442
+com_glossary|1.6|141318
+com_gmapfp|J3.52F|151460
+com_gmap|<= 4.2.3|146443
+com_gnosis|1.1.2|141336
+com_gpstools|4.0.1|141313
+com_grid|3.4.2 and 3.4.5|151841
+com_guesser|1.0.4|141433
+com_hotelguide|1.0|151425
+com_hotproperty|1.0.0|151623
+com_hwdvideoshare|1.0 and 1.5|151426
+com_intranet|2.6.5|141311
+com_invitex|3.0.5|146444
+com_j2store|< 3.3.6|151909
+com_jajobboard|1.5|141292
+com_jambook|1.0 and 1.5|151461
+com_jbuildozer|1.4.1|145399
+com_jbusinessdirectory|4.9.7/4.7.3/4.6.8|151300/145682/141228
+com_jcalpro|4.3.26|151427
+com_jcart|2.0|141695
+com_jce|2.6.33|150547
+com_jclassifiedsmanager|3.0.5|151295
+com_jcomments|3.0.5|151428
+com_jdownloads|3.2.63 and 3.2.62 - 3.2.61 - 3.2.33 and all other previous versions|151597
+com_jefaqpro|4.0.0|145543
+com_jemembership|3.1.0|145598
+com_jephotogallery|1.1|150606
+com_jereverseauction|3.1.0|146212
+com_jevideogallery|3.0.5|145437
+com_jgive|2.0.9|146446
+com_jgrid|4.44|142359
+com_jimtawl|2.2.7|149660/146214
+com_jlike|1.0|146259
+com_jmsmusic|1.1.1|146216
+com_jobgrokapp|3.1-1.2.55|141929
+com_jobsfactory|2.0.4|149524
+com_jofacebookgallery|4.5|141308
+com_jomcomdev|4.4/3.X/3.7|145609/145584/145582
+com_jomevents|3.7|145583
+com_jomres|<=9.16.1|151509
+com_joodb|3.1.0|141309
+com_joomap|2.0.6 and previous versions|151430
+com_joomleague|1.6 - 2.x  - 3.0|151510
+com_jquickcontact|1.3.2.2.1|146447
+com_jsautoz|1.0.9|146448
+com_jsjobs|1.1.9|146449
+com_jsptickets|1.1|146255
+com_jtagmembersdirectory|5.3.7/3.X,|146137/145581/145581
+com_jticketing|2.0.16|146450
+com_jumi|3.0.5 for Joomla 2.5.x and 3.x and previous versions|151511
+com_jusertube|8.3.1 and other previous versions|151431
+com_jux_real_estate|3.X|145684
+com_jvle|3.0 for Joomla 3.x and 2.7.44 for Joomla 2.5|151598
+com_jwallpapers|1.1 - 1.3 - 1.4 - 1.6 and 2.0.1 ~ and all previous versions|151752
+com_k2ajaxsearch|2.2|141305
+com_k2store|3.8.2|141262
+com_k2|2.8.0|146594
+com_k2|2.9.0 and previous versions/2.1|151500/141326
+com_lightgallery|Joomla Component 1.2.1 and Joomla Plugin 2.0.3|151668
+com_lmsking|3.2.4.0|143640
+com_mailto|1.2.2.2|151501
+com_matukio|<=7.0.15|151839
+com_medialibrary|4.0.12|146452
+com_microdealfactory|2.4.0|149487
+com_modern_booking|1.0|141798
+com_morfeoshow|1.2.0|151432
+com_mymsg|3.2.1|141329
+com_myportfolio|3.0.2|142311
+com_nbreal|1.5|145697
+com_nge|2.1.0|145490
+com_ninjarsssyndicator|2.0.5 for Joomla 2.5|151502
+com_ns_downloadshop|2.2.6|144435
+com_onevote|1.0|141338
+com_opencart|2.x|141696
+com_osproperty|3.12.7|146552
+com_pennyfactory|2.0.4|149522
+com_phocadownload|1.3.9, 2.1.9, 3.1.5, 3.1.7|151503
+com_phocaguestbook|1.4.5 - 1.5.3 - 2.0.2 - 2.0.7 - 3.0.2 - 3.0.5 - 3.0.6 - 3.0.8|151624
+com_phocamaps|1.0.5 - 1.1.1 - 1.1.2 - 2.0.4 - 2.0.5 and 3.0.5|151670
+com_photomapgallery|1.0|151504
+com_phpbridge|1.2.3|143644
+com_pofos|1.6.1|149518
+com_ponygallery|3.3.0 3.2.2 for Joomla 3.x and previous versions|151622
+com_prayercenter|2.5.2 - 3.0.1 - 3.0.2 - 3.0.3 - 3.0.4|151671/146547
+com_projectlog|1.5.3|146454
+com_questions|1.4.3|149523
+com_rafflefactory|3.5.2|149520
+com_rbids|4.3.8|149531
+com_realpin|<= 1.5.04|146455
+com_recipe|2.2|141434
+com_redshop|<=2.0.0.3/1.4 and 1.5|151505/141279
+com_registrationpro|4.1.3|143639
+com_remository|3.58|151433
+com_rokin|3.2.6|151434
+com_rsform|1.5|151496
+com_saxumastro|4.0.14|146463
+com_saxumnumerology|3.0.4|146464
+com_saxumpicker|3.2.10|146466
+com_sermonspeaker|5.9.0 and other versions|151625
+com_sgpprojects|3.1|141317
+com_simgenealogy|2.1.5|143643
+com_simplecalendar|3.1.9|146456
+com_simplemembership|3.3.3|141617
+com_simplestforum|1.5|151435
+com_sobi2|1.4.9 and J3.x|151462
+com_socialfactory|3.8.3|149525
+com_socialpinboard|2.0|146461
+com_solidres|2.5.1|146458
+com_spidercalendar|<=3.2.6 and 3.2.17|151842
+com_spmoviedb|1.3|143834
+com_squadmanagement|1.0.3|146465
+com_staffmaster|<= 1.0 RC 1|146459
+com_streetguess|1.0|141432
+com_surveyforce|3.2.4|143980
+com_timetableschedule|3.6.8|149534
+com_timetable|1.5|146460
+com_twitchtv|1.1|143852
+com_upl|1.0.2|143638
+com_userbench|1.0|145474
+com_vbizz|1.0.7|151297/151298
+com_videoflow|1.2.0|142642
+com_vikappointments|1.5|141643
+com_vikrentcar|1.11|141641
+com_vikrentitems|1.3|141642
+com_visualcalendar|3.1.3|146163
+com_vmap|1.9.6/1.9.2|151299/145699
+com_vreview|1.9.11|151293
+com_vwishlist|1.0.1|151291
+com_weblinks|3.4.0 - 3.4.1 - 3.5.0 - 3.6.0 and other previous versions|151600
+com_webmapplus|1.0|151506
+com_wisroyq|1.6|141310
+com_wordpress|<=4.8.0|151626
+com_xmap|1.2.7 / 2.3.0 and other versions|151436
+com_zcalendar|3 and 4 - 4.4.0 and previous versions/4.3.4|151627/143836
+com_zhyandexmap|6.2.1.0/6.1.1.0|146257/144436
+com_zoo|3.3.33 and 3.3.10|151437
+geommunity3es|1.4|151837
+j-hotelportal|6.0.5|145683
+jhotelreservation|6.0.5|145681
+smartshoutbox|3.0.0|146457
+ticketmasterext|3.4.17 To 3.5.6 and 3.5.7|151840
+com_k2store|3.8.2|141262
+com_multitier|3.1|141258
+com_userextranet|1.3.1|141259
+com_magicdealsweb|1.2.0|141229
+com_realestatemanager|3.9|141260
+com_vehiclemanager|3.9|141261
+com_directorix|1.1.1|141230
+com_jcruisereservation|3.0/6.0.2|141233/141231
+com_rsappt_pro3|4.0.1-4.0.2|141227
+com_eventix|1.0|141232
